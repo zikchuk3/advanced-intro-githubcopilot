@@ -1,1 +1,1 @@
-# :rocket Hello World - Launching Into AI and Code
+# :rocket: Hello World - Launching Into AI and Code
