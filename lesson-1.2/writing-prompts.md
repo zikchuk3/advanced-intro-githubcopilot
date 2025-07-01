@@ -1,11 +1,41 @@
-## Propmt Engineering
+## Prompt Engineering
 
 # What is Prompt Engineering
-
 The quality of responses from generative AI assistants not only depends on the language model used, but on the types of prompts users provide. Prompts are ways we tell an application what we want it to do. You can get the most useful completions by being explicit about the kind of response you want. Take this example, "Summarize the key considerations for adopting Copilot described in this document for a corporate executive. Format the summary as no more than six bullet points with a professional tone." Users of generative AI can achieve better results when you submit clear, specific prompts.
+
 
 ![A screenshot of the considerations for improving a copilot response that corresponds with the numbered list below.](../media/writing-prompts.png)
 
+Prompt Engineering Involves Constructing prompts to:
+- Maximize relevancy and accuracy of completions
+- Specify formatting and style of completions
+- Provide conversational context
+- Mitigate bias and improve fairness
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vGdyePbGNaE
+" target="_blank"><img src="https://img.youtube.com/vi/vGdyePbGNaE/1.jpg" 
+alt="Bias in AI" width="240" height="180" border="10" /></a>
+
+
+## Prompt Engineering Techniques
+
+Below is a list of five different prompt engineering techniques that are used to generate useful results. A short description is provided here, but if you click on the name of the technique, it will lead you to a page with more information and examples.
+
+#### Zero-Shot
+
+This method involves providing the AI with a task without any prior examples, relying solely on the detailed description of what is needed, under the assumption that the AI has no prior knowledge of the task. [More Details](https://www.promptingguide.ai/techniques/zeroshot)
+
+#### One-Shot
+One example is provided along with the prompt. This helps the AI understand the expected context or format. [More Details](https://www.analyticsvidhya.com/blog/2024/07/one-shot-prompting/)
+
+#### Few-Shot
+A few examples (usually between 2 to 5) are given to help the AI understand the pattern or style of the desired response. [More Details](https://www.promptingguide.ai/techniques/fewshot)
+
+#### Prompt Chaining 
+Complex tasks are broken down into smaller prompts, and the outputs are chained together to form a final comprehensive response. [More Details](https://www.promptingguide.ai/techniques/prompt_chaining)
+
+
+## Techniques for Improving the Response
 Consider the following ways you can improve the response a generative AI assistant provides:
 
 1. Start with a specific goal for what you want the assistant to do
