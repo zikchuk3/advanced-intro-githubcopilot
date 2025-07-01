@@ -1,3 +1,7 @@
+## Propmt Engineering
+
+# What is Prompt Engineering
+
 The quality of responses from generative AI assistants not only depends on the language model used, but on the types of prompts users provide. Prompts are ways we tell an application what we want it to do. You can get the most useful completions by being explicit about the kind of response you want. Take this example, "Summarize the key considerations for adopting Copilot described in this document for a corporate executive. Format the summary as no more than six bullet points with a professional tone." Users of generative AI can achieve better results when you submit clear, specific prompts.
 
 ![A screenshot of the considerations for improving a copilot response that corresponds with the numbered list below.](../media/writing-prompts.png)

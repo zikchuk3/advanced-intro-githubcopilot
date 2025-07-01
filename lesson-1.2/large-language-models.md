@@ -12,7 +12,8 @@ As you may expect, machines have a hard time deciphering text as they mostly rel
 
 One important development to allow machines to more easily work with text has been tokenization. **Tokens** are strings with a known meaning, usually representing a word. **Tokenization** is turning words into tokens, which are then converted to numbers. A statistical approach to tokenization is by using a pipeline:
 
-:::image type="content" source="../media/tokenization-pipeline.png" alt-text="A screenshot showing the pipeline of tokenization of a sentence.":::
+
+![A screenshot showing the pipeline of tokenization of a sentence](../media/tokenization-pipeline.png)
 
 1. Start with the text you want to **tokenize**.
 1. **Split** the words in the text based on a rule. For example, split the words where there's a white space.
@@ -31,8 +32,8 @@ To create a vocabulary that encapsulates semantic relationships between the toke
  
 Vectors represent lines in multidimensional space, describing direction and distance along multiple axes (you can impress your mathematician friends by calling these amplitude and magnitude). Overall, the vector describes the direction and distance of the path from origin to end.
 
-:::image type="content" source="../media/word-embeddings.png" alt-text="A screenshot showing a simple example of word embeddings.":::
- 
+![A screenshot showing a simple example of word embeddings.](../media/word-embeddings.png)
+
 The elements of the tokens in the embeddings space each represent some semantic attribute of the token, so that semantically similar tokens should result in vectors that have a similar orientation – in other words they point in the same direction. A technique called cosine similarity is used to determine if two vectors have similar directions (regardless of distance), and therefore represent semantically linked words. For example, the embedding vectors for "dog" and "puppy" describe a path along an almost identical direction, which is also fairly similar to the direction for "cat". The embedding vector for "skateboard" however describes journey in a very different direction.
 
 ## Architectural developments 
@@ -51,13 +52,14 @@ To know what word comes next, you need to remember the name of the painter. The 
 
 Simplifying the example sentence, you can provide the following input to an RNN: `Vincent was a painter known for [MASK]`:
 
-:::image type="content" source="../media/vincent-tokenized.png" alt-text="Diagram showing the sentence tokenized to present the most important words in a sentence as individual tokens.":::
+![Diagram showing the sentence tokenized to present the most important words in a sentence as individual tokens.](../media/vincent-tokenized.png)
 
 The RNN takes each token as an input, processes it, and updates the hidden state with a memory of that token. When the next token is processed as new input, the hidden state from the previous step is updated.
 
 Finally, the last token is presented as input to the model, namely the `[MASK]` token. Indicating that there's information missing and the model needs to predict its value. The RNN then uses the hidden state to predict that the output should be something like `Starry Night`
 
-:::image type="content" source="../media/recurrent-network.gif" alt-text="Diagram showing a recurrent network with multiple steps. Each step takes an input and hidden state as input and produces an output.":::
+![Diagram showing a recurrent network with multiple steps. Each step takes an input and hidden state as input and produces an output.](../media/recurrent-network.gif)
+
 
 #### Challenges with RNNs
 
