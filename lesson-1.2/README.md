@@ -1,22 +1,21 @@
-# Lesson 1.1 - Introduction to GitHub
+# Lesson 1.2 - Intro to Generative AI, Prompt Engineering, and Responsible AI
 
 ## 🎯 Learning Objectives
-- Identify the fundamental features of GitHub.
-- Learn about code repository management
-- Learn about Open Source Community
-- Create your GitHub Profile ReadMe
+- Understand what generative AI can do and how it appears in today's applications.
+- Understand how language models can understand and generate language.
+- Learn about prompt engineering and how you can engineer good prompts and quality responses.
 
-## :pushpin: Lesson Overview [10 minutes]
-- [What is GitHub](../lesson-1.1/what-is-github.md)
-- [GitHub Flow](../lesson-1.1/github-flow.md)
+## :pushpin: Lesson Overview [15 minutes]
+- [What is Generative AI](../lesson-1.1/what-is-github.md)
+- [Large Language Models](../lesson-1.1/github-flow.md)
+- [Writing Prompts]()
+- [Responsible AI]()
 
-## ✔️ Activities[45 minutes]
+## ✔️ Activities[40 minutes]
 
-- [Create your GitHub Account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
-- [Complete the Introduction to GitHub Exercise](https://github.com/skills/introduction-to-github)
-- [Communicate Using Markdown(if not familiar with Markdown)](https://github.com/skills/communicate-using-markdown)
-- [Create your GitHub Profile](https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile)
-- Complete assessment to earn your Intro to GitHub Badge
+- [Compare LLMs](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
+- [Identifying Bias in AI](https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile)
+- Don't forget to Complete assessment to earn your Intro to GitHub Badge
 
 
 ## 📑Key Terms
