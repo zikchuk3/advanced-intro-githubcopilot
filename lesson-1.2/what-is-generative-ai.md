@@ -33,4 +33,4 @@ def add_numbers(a, b):
 
 ```
 
-Next, let's build an understanding of the language models that power generative AI. 
+Next - [let's understand how we got to Generative AI](../lesson-1.2/generative-ai-evolution.md). 

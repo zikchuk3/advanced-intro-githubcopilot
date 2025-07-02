@@ -1,4 +1,4 @@
-## Identifying Bias in AI (25 min)
+## Identifying Bias in AI
 
 In this tutorial, you’ll learn about bias, which refers to negative, unwanted consequences of ML applications, especially if the consequences disproportionately affect certain groups. [Get Started!](https://www.kaggle.com/code/alexisbcook/identifying-bias-in-ai/tutorial)
 
