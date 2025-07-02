@@ -6,13 +6,13 @@
 - Use GitHub Copilot to design, build, and test a Python web application.
 
 ## :pushpin: Lesson Overview [5 minutes]
-- [What is GitHub Copilot](../lesson-1.1/what-is-github.md)
+- [Introduction to GitHub Copilot](../lesson-1.3/intro-github-copilot.md)
+- [AI in Software Development Lifecycle](../lesson-1.3/ai-in-sdlc.md)
 
 ## ✔️ Activities[50 minutes]
 
 - [Get Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot)
-- [Sketch a Website](https://github.com/skills/introduction-to-github)
-- [Build fully functional website)](https://github.com/skills/communicate-using-markdown)
+- [Build fully functional website)](/lesson-1.3/tutor-signup/README.md)
 - Complete assessment to earn your Introduction to Copilot and Using GitHub Copilot with Python Badge
 
 
