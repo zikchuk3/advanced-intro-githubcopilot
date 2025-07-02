@@ -25,9 +25,9 @@ The main materials for this unit will be stored on Microsoft Learn.  Use your ac
 
 |Lesson |Objectives | Lab Exercise | Assessment/Badges
 | ----------- | ----------- | ----------- | ----------- |
-| 1.1 - Intro to GitHub |<ul><li>Identify the fundamental features of GitHub.</li><li>Learn about code repository management</li><li>Learn about Open Source Community</li><li>Create your GitHub Profile ReadMe</li></ul> | [Lesson 1.1](/lesson-1.1/README.md) | 
+| 1.1 - Intro to GitHub |<ul><li>Identify the fundamental features of GitHub.</li><li>Learn about code repository management</li><li>Learn about Open Source Community</li><li>Create your GitHub Profile ReadMe</li></ul> | [Unit 1.1](/lesson-1.1/README.md) | 
 | 1.2 - Intro to Generative AI, Prompt Engineering, and Responsible AI |<ul><li>Understand what generative AI can do and how it appears in today's applications.</li><li>Understand how language models can understand and generate language.</li><li>Learn about prompt engineering and how you can engineer good prompts and quality responses.</li></ul> | [Lesson 1.2](/lesson-1.2/README.md) | 
-| 1.3 - Pair Programming with Copilot |<ul><li>Explore GitHub Copilot's potential impact on different stages of the Software Development Lifecycle.</li><li>Craft prompts that can generate useful suggestions from GitHub Copilot.</li><li>Use GitHub Copilot to design, build, and test a Python web application.</li></ul> | blah | 
+| 1.3 - Pair Programming with Copilot |<ul><li>Explore GitHub Copilot's potential impact on different stages of the Software Development Lifecycle.</li><li>Craft prompts that can generate useful suggestions from GitHub Copilot.</li><li>Use GitHub Copilot to design, build, and test a Python web application.</li></ul> |[Lesson 1.3](/lesson-1.3/README.md) | 
 
 
 
@@ -49,3 +49,5 @@ Here are some additional resources to help you along the way.
 ### 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
