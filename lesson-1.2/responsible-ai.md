@@ -70,5 +70,8 @@ People should be accountable for AI systems. Although many AI systems seem to op
 " target="_blank"><img src="https://img.youtube.com/vi/fliz8zjw1ZU/3.jpg" 
 alt="Bias in AI" width="240" height="180" border="10" /></a>
 
+## Exercise 
+[Identifying Bias in AI](../lesson-1.2/exercises/bias-in-ai.md)
+
 ## More Reading
 [Top 10 Black A.I. Creators You Need to Know](https://creativitysquared.com/top-10-black-a-i-creators-you-need-to-know/)

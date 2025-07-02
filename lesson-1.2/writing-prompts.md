@@ -1,7 +1,11 @@
-## Prompt Engineering
-
 # What is Prompt Engineering
 The quality of responses from generative AI assistants not only depends on the language model used, but on the types of prompts users provide. Prompts are ways we tell an application what we want it to do. You can get the most useful completions by being explicit about the kind of response you want. Take this example, "Summarize the key considerations for adopting Copilot described in this document for a corporate executive. Format the summary as no more than six bullet points with a professional tone." Users of generative AI can achieve better results when you submit clear, specific prompts.
+
+Prompt Engineering is the practice of designing and refining inputs to guide AI models toward producing desired outputs. Tokenization: The process of converting text into smaller units, called tokens, that a model can understand and process. Instruction-Tuned LLMs: Large Language Models (LLMs) that have been fine-tuned with specific instructions to improve their response accuracy and relevance.  We can think of this as a 2-step process:
+
+- designing the initial prompt for a given model and objective
+- refining the prompt iteratively to improve the quality of the response
+
 
 
 ![A screenshot of the considerations for improving a copilot response that corresponds with the numbered list below.](../media/writing-prompts.png)
@@ -50,3 +54,7 @@ In most cases, an agent doesn't just send your prompt as-is to the language mode
 - The current prompt – potentially optimized by the agent to reword it appropriately for the model or to add more grounding data to scope the response.
 
 The term *prompt engineering* describes the process of prompt improvement. Both developers who design applications and consumers who use those applications can improve the quality of responses from generative AI by considering prompt engineering. 
+
+
+## Exercise 
+[Comparing Prompts and LLMs](../lesson-1.2/exercises/comparing-llms.md)
