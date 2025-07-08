@@ -33,4 +33,8 @@
 ## :books: Additional Resources
 Here are some additional resources to help you along the way.
 - [Generative AI for Beginners Course](https://microsoft.github.io/generative-ai-for-beginners/)
+- [How Large Language Models Work](https://www.youtube.com/watch?v=5sLYAQS9sWQ&t=20s)
+- [AI vs Human Thinking](https://www.youtube.com/watch?v=-ovM0daP6bw)
+- [How I'm fighting bias in algorithms ](https://www.youtube.com/watch?v=UG_X_7g63rY)
+- [Unmasking AI, understanding Bias in AI](https://www.youtube.com/watch?v=fliz8zjw1ZU)
 
