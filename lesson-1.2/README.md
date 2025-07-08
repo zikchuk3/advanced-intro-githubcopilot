@@ -21,6 +21,14 @@
 **Let's Get Started** - Fork this repo to get started on activities
 
 ## 📑Key Terms
+- Generative AI- Generative AI is artificial intelligence that creates new content (like text, images, music, or code) rather than just analyzing existing information - it's like having a creative assistant that can make original stuff based on what it learned from examples.
+- Tokenization - Tokenization is like breaking down sentences into bite-sized chunks (words, parts of words, or even individual characters) that the computer can actually process - kind of like how you might break down a big sandwich into smaller bites to eat it.
+- Large-Language Models – An LLM is like a super-advanced autocomplete system that's been trained on massive amounts of text from books, websites, and conversations. By getting really good at predicting what word or phrase should come next in any context, it accidentally learned how to write, answer questions, and have conversations.
+- Prompt Engineering-Prompt engineering is the art of carefully crafting your questions or instructions to an AI to get the best possible responses - like learning the right way to ask for directions to get exactly where you want to go.
+- Responsible AI - Responsible AI is about building and using artificial intelligence in ways that are safe, fair, and beneficial for everyone - making sure AI systems don't cause harm, discriminate against people, or create problems for society.
+
+
+
 
 ## :books: Additional Resources
 Here are some additional resources to help you along the way.
