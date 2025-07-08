@@ -14,7 +14,7 @@
 ## ✔️ Activities[40 minutes]
 
 - [Understanding Tokenization](../lesson-1.2/exercises/tokenization.md)
-- [Compare LLMs](../lesson-1.2/exercises/comparing-llms.md))
+- [Compare LLMs](../lesson-1.2/exercises/comparing-llms.md)
 - [Identifying Bias in AI](../lesson-1.2/exercises/bias-in-ai.md)
 - Don't forget to Complete assessment to earn your Introduction to generative AI concepts Badge
 
