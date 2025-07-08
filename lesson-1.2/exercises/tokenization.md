@@ -8,4 +8,4 @@ To get an intuition for how tokenization works, use the [OpenAI Tokenizer](https
 [Reflection here]
 
 
-Next we'll learn about [Prompt Engineering]()
+Next we'll learn about [Prompt Engineering]((../lesson-1.2/writing-prompts.md)
