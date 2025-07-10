@@ -1,5 +1,5 @@
 # Build a Website Using GitHub Copilot
-In this exercise, you’ll use GitHub Copilot to create a **BSMP **! We want to create a website that allows students to signup for additional coaching for our program. A few requirements we were given:
+In this exercise, you’ll use GitHub Copilot to create a **HelpHub.AI**, a smart support space for students! We want to create a website that allows students to signup for additional coaching for our program. A few requirements we were given:
 
 - Students should enter their basic information(Name, Email, etc.)
 - Students must be able to see a list of multiple options they would like to request tutoring(Python Programming, Web Design, Startup Ideas, College Application, etc.)
