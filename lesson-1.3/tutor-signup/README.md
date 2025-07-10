@@ -14,7 +14,7 @@ In this exercise, you’ll use GitHub Copilot to create a **HelpHub.AI**, a smar
 2. Next, you’ll need to sketch your webpage. There are different ways to do this, here are some options:
     - Draw your webpage on a piece of paper and then take a picture of it.
     - Draw your webpage on a phone or tablet if you have access to either and can download a drawing app.
-    - You can use wireframe tools like [Wireframe(]https://wireframe.cc/) or [Balsamiq](https://balsamiq.cloud/#)
+    - You can use wireframe tools like [Wireframe](https://wireframe.cc/) or [Balsamiq](https://balsamiq.cloud/#)
     - Don't spend too much time trying to make your sketch perfect, the idea is to truly have a quick sketch.
     - Upload your sketch.   In your Codespaces, right-click on lesson 1.3 folder, select Upload to upload your folder
 
