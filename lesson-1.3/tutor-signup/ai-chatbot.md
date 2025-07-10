@@ -1,5 +1,5 @@
 
-## Challenge 1: AI-Chatbot Feature Integration
+## AI-Chatbot Feature Integration
 
 ### Objective
 Add intelligent features to HelpHub.AI by using Azure OpenAI APIs and GitHub Copilot assistance.
