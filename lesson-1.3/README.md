@@ -12,7 +12,7 @@
 ## ✔️ Activities[50 minutes]
 
 - [Get Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot)
-- [Build fully functional website)](/lesson-1.3/tutor-signup/README.md)
+- [Build fully functional website)](helphub.ai/README.md)
 - Complete assessment to earn your Introduction to Copilot and Using GitHub Copilot with Python Badge
 
 

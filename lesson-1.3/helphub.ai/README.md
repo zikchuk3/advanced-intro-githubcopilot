@@ -33,10 +33,9 @@ In this exercise, you’ll use GitHub Copilot to create a **HelpHub.AI**, a smar
 Now that you have your website up and running, add more features to make it ready for production.  Choose one of the 
 | Feature | Description |
 | ----------- | ----------- |
-| Create an AI Chatbot | Link |
-| Security Vulnerability Hunt & Fix | Link |
-| Add a Database backend | Link |
-| Build and Deploy your application | Link |
+| Create an AI Chatbot | [Link](/lesson-1.3/helphub.ai/challenges/ai-chatbot.md)|
+| Security Vulnerability Hunt & Fix | [Link](/lesson-1.3/helphub.ai/challenges/security-vulnerability.md) |
+
 
 ### 💡 Pro-Tips
 - Write clear Copilot prompts - Be specific about what you want
